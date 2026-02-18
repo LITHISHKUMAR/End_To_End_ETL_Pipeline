@@ -10,8 +10,8 @@ BUCKET_NAME = "lithish-1-s3-bucket"
 S3_KEY = "processed/posts_transformed.json"
 
 SNOWFLAKE_CONFIG = {
-    "user": "LITHISH",
-    "password": "Sivarao@486999",
+    "user": "*********",
+    "password": "********",
     "account": "LEPRVXT-XUC01698",
     "warehouse": "COMPUTE_WH",
     "database": "RETAIL_DB",
